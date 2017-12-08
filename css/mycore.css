@@ -1,0 +1,21 @@
+.page-footer
+{
+	height:50px;
+	background-color:#173e43;
+	color:#fae596;
+}
+.game-type
+{
+
+	margin-left:250px;
+	
+}
+.game-type button
+{
+	margin:50px;
+	padding:20px;
+	width:120px;
+	height:70px;
+	text-align:center;
+	font-size:18px;
+	}
